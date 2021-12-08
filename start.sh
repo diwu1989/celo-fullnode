@@ -5,7 +5,7 @@ docker rm celo-fullnode
 export CELO_ACCOUNT_ADDRESS=0x5Ca621B88f8f3919eb4B9324CC780a3DF34f95fD
 export CELO_IMAGE=us.gcr.io/celo-org/geth:mainnet
 export SYNC_MODE=fast
-export MAX_PEERS=160
+export MAX_PEERS=32
 export CACHE=128
 docker run --name celo-fullnode -d \
         --restart unless-stopped \
