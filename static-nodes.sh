@@ -7,4 +7,4 @@ curl -s 'https://www.googleapis.com/storage/v1/b/static_nodes/o/mainnet.gcp-sout
 curl -s 'https://www.googleapis.com/storage/v1/b/static_nodes/o/mainnet.gcp-asia-east1?alt=media' > /tmp/mainnet6.json
 
 jq -s add /tmp/mainnet*json > static-nodes.json
-echo 'generated static-nodes.json'
+echo 'generated static-nodes.json, remember to move to ./celo/geth/static-nodes.json'
