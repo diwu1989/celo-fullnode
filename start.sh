@@ -13,7 +13,7 @@ docker run --name celo-fullnode -d \
         --stop-timeout 30 \
         -p 8545:8545 -p 8546:8546 -p 30303:30303 -p 30303:30303/udp \
         -v $PWD:/root/.celo $CELO_IMAGE \
-        --rpc.gascap 10000000000 --rpc.txfeecap 0 \
+        --rpc.txfeecap 0 \
         --syncmode $SYNC_MODE --http --http.addr 0.0.0.0 --maxpeers $MAX_PEERS --txpool.lifetime 10s \
         --etherbase $CELO_ACCOUNT_ADDRESS --nodiscover --txlookuplimit $TX_LOOKUP_LIMIT \
         --datadir /root/.celo --nousb --cache $CACHE --snapshot=true --cache.snapshot 20 \
