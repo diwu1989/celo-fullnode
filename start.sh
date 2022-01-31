@@ -10,6 +10,7 @@ export TX_LOOKUP_LIMIT=1000
 docker run --name celo-fullnode -d \
         --restart unless-stopped \
         --stop-timeout 30 \
+        --memory 3G \
         -p 8545:8545 -p 8546:8546 -p 30303:30303 -p 30303:30303/udp \
         -v $PWD:/root/.celo $CELO_IMAGE \
         --rpc.txfeecap 0 \
