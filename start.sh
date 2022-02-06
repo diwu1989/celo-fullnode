@@ -13,7 +13,7 @@ docker run --name celo-fullnode -d \
         --stop-timeout 30 \
         --memory 6G \
         --env USE_JEMALLOC=1 \
-        -p 127.0.0.1:8545:8545 -p 127.0.0.1:8546:8546 -p $GETH_PORT:$GETH_PORT -p $GETH_PORT:$GETH_PORT/udp \
+        -p 18545:8545 -p 18546:8546 -p $GETH_PORT:$GETH_PORT -p $GETH_PORT:$GETH_PORT/udp \
         -v $PWD:/root/.celo $CELO_IMAGE --port $GETH_PORT \
         --syncmode $SYNC_MODE --http --http.addr 0.0.0.0 --maxpeers $MAX_PEERS --txpool.lifetime 60s \
         --txlookuplimit $TX_LOOKUP_LIMIT \
