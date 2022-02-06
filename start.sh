@@ -18,4 +18,4 @@ docker run --name celo-fullnode -d \
         --txlookuplimit $TX_LOOKUP_LIMIT \
         --datadir /root/.celo --nousb --cache $CACHE \
         --ws --ws.addr 0.0.0.0 --http.vhosts '*' --ws.origins '*' \
-        --ws.api eth,net,web3,txpool --http.api eth,net,web3,txpool
+        --ws.api eth,net,web3,txpool --http.api eth,net,web3
