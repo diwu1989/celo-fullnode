@@ -2,7 +2,7 @@
 docker stop celo-fullnode
 docker rm celo-fullnode
 
-export CELO_IMAGE=registry.cloud.okteto.net/diwu1989/celo-geth:latest
+export CELO_IMAGE=cloud.canister.io:5000/diwu1989/celo-geth:latest
 export SYNC_MODE=fast
 export MAX_PEERS=512
 export CACHE=1024
