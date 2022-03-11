@@ -20,4 +20,3 @@ docker run --name celo-fullnode -d \
         --datadir /root/.celo --nousb --cache $CACHE \
         --ws --ws.addr 0.0.0.0 --http.corsdomain '*' --http.vhosts '*' --ws.origins '*' \
         --ws.api eth,net,web3,txpool,debug --http.api eth,net,web3
-        --ws.api eth,net,web3,txpool --http.api eth,net,web3
