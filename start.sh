@@ -17,5 +17,5 @@ docker run --name celo-fullnode -d \
         --syncmode $SYNC_MODE --http --http.addr 0.0.0.0 --maxpeers $MAX_PEERS --txpool.lifetime 60s \
         --txlookuplimit $TX_LOOKUP_LIMIT --snapshot=true \
         --datadir /root/.celo --nousb --cache $CACHE \
-        --ws --ws.addr 0.0.0.0 --http.vhosts '*' --ws.origins '*' \
+        --ws --ws.addr 0.0.0.0 --http.corsdomain '*' --http.vhosts '*' --ws.origins '*' \
         --ws.api eth,net,web3,txpool --http.api eth,net,web3
