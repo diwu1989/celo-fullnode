@@ -15,7 +15,7 @@ docker run --name celo-fullnode -d \
         -p 18545:8545 -p 18546:8546 -p $GETH_PORT:$GETH_PORT -p $GETH_PORT:$GETH_PORT/udp \
         -v $PWD:/root/.celo $CELO_IMAGE --port $GETH_PORT \
         --syncmode $SYNC_MODE --http --http.addr 0.0.0.0 --maxpeers $MAX_PEERS --txpool.lifetime 60s \
-        --rpc.txfeecap 0 --txpool.pricebump 0 \
+        --rpc.txfeecap 0 --txpool.pricebump 1 \
         --txlookuplimit $TX_LOOKUP_LIMIT --snapshot=true \
         --datadir /root/.celo --nousb --cache $CACHE \
         --ws --ws.addr 0.0.0.0 --http.corsdomain '*' --http.vhosts '*' --ws.origins '*' \
