@@ -11,7 +11,7 @@ export GETH_PORT=30314
 docker run --name celo-fullnode -d \
         --restart unless-stopped \
         --stop-timeout 30 \
-        --memory 6G \
+        --memory 3G \
         -p 18545:8545 -p 18546:8546 -p $GETH_PORT:$GETH_PORT -p $GETH_PORT:$GETH_PORT/udp \
         -v $PWD:/root/.celo $CELO_IMAGE --port $GETH_PORT \
         --syncmode $SYNC_MODE --http --http.addr 0.0.0.0 --maxpeers $MAX_PEERS --txpool.lifetime 60s \
