@@ -1,563 +1,475 @@
 [
    [
-      45.5946,
-      -121.1787,
-      "35.230.31.172:59228",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      41.2619,
-      -95.8608,
-      "35.224.220.42:40036",
-      "US - Council Bluffs",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      44.418,
-      26.1691,
-      "37.120.245.147:38848",
-      "RO - Bucharest",
-      "M247 Ltd",
-      "v1.3.2-stable"
-   ],
-   [
-      39.0437,
-      -77.4875,
-      "54.175.255.216:64827",
-      "US - Ashburn",
-      "Amazon.com, Inc.",
-      "v1.4.1-stable-0a6286b2"
-   ],
-   [
-      52.374,
-      4.8897,
-      "62.133.229.47:60368",
-      "NL - Amsterdam",
-      "Unilogic Networks B.V.",
-      "v1.3.2-stable"
+      34.5271,
+      -82.7087,
+      "35.133.236.115:59628",
+      "US - Anderson",
+      "Charter Communications",
+      "v1.5.4-stable"
    ],
    [
       37.3483,
       -121.9844,
-      "157.245.190.39:37594",
+      "138.68.28.193:38410",
       "US - Santa Clara",
       "DigitalOcean, LLC",
-      "v1.3.2-stable"
+      "v1.5.2-stable"
    ],
    [
-      41.2619,
-      -95.8608,
-      "35.223.105.153:1026",
-      "US - Council Bluffs",
-      "Google LLC",
-      "v1.3.2-stable"
+      52.374,
+      4.8897,
+      "62.133.229.47:60648",
+      "NL - Amsterdam",
+      "Unilogic Networks B.V.",
+      "v1.5.2-stable"
    ],
    [
-      50.1025,
-      8.6299,
-      "35.246.166.176:34524",
-      "DE - Frankfurt am Main",
-      "Google LLC",
-      "v1.3.2-stable"
+      60.354,
+      24.9794,
+      "65.21.173.171:56144",
+      "FI - Tuusula",
+      "Hetzner Online GmbH",
+      "v1.5.2-stable"
    ],
    [
-      37.3394,
-      -121.895,
-      "54.241.101.177:54730",
-      "US - San Jose",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
+      47.2343,
+      -119.8525,
+      "20.42.146.21:30303",
+      "US - Quincy",
+      "Microsoft Corporation",
+      "v1.5.4-stable"
+   ],
+   [
+      52.374,
+      4.8897,
+      "167.99.215.162:36814",
+      "NL - Amsterdam",
+      "DigitalOcean, LLC",
+      "v1.5.4-stable-cf079449"
    ],
    [
       1.3215,
       103.6957,
-      "157.245.59.108:33350",
+      "128.199.192.34:39118",
       "SG - Singapore",
       "DigitalOcean, LLC",
-      "v1.4.1-stable"
+      "v1.5.5-stable"
    ],
    [
-      51.5085,
-      -0.1257,
-      "35.178.52.50:36356",
-      "GB - London",
-      "Amazon.com, Inc.",
-      "v1.3.0-stable"
-   ],
-   [
-      37.566,
-      126.9784,
-      "13.209.60.161:18097",
-      "KR - Seoul",
-      "Amazon.com, Inc.",
-      "v1.3.0-stable"
-   ],
-   [
-      45.8399,
-      -119.7006,
-      "52.32.77.128:46961",
-      "US - Boardman",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      32.8546,
-      -79.9748,
-      "34.138.9.254:50924",
-      "US - North Charleston",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      38.8951,
-      -77.0364,
-      "35.245.28.199:35564",
-      "US - Washington",
-      "Google LLC",
-      "v1.4.0-stable"
-   ],
-   [
-      60.354,
-      24.9794,
-      "65.21.74.124:34502",
-      "FI - Tuusula",
+      49.1166,
+      10.7597,
+      "116.202.131.174:30303",
+      "DE - Gunzenhausen",
       "Hetzner Online GmbH",
-      "v1.4.1-stable"
+      "v1.5.4-stable"
    ],
    [
-      35.6895,
-      139.6917,
-      "3.112.138.57:50090",
-      "JP - Tokyo",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      35.6895,
-      139.6917,
-      "54.250.134.234:8972",
-      "JP - Tokyo",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      50.1025,
-      8.6299,
-      "138.68.96.13:56710",
-      "DE - Frankfurt am Main",
-      "DigitalOcean, LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      50.8505,
-      4.3488,
-      "34.77.108.219:30303",
-      "BE - Brussels",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      40.0334,
-      -83.1582,
-      "3.139.62.96:57758",
-      "US - Hilliard",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      45.5946,
-      -121.1787,
-      "34.83.103.83:48048",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      45.5946,
-      -121.1787,
-      "34.127.66.211:50268",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      43.7001,
-      -79.4163,
-      "159.203.21.103:40178",
-      "CA - Toronto",
-      "DigitalOcean, LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      -23.5475,
-      -46.6361,
-      "54.207.149.222:49554",
-      "BR - São Paulo",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      45.5946,
-      -121.1787,
-      "35.233.158.167:41414",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      43.7001,
-      -79.4163,
-      "68.183.192.178:49226",
-      "CA - Toronto",
-      "DigitalOcean, LLC",
-      "v1.5.0-beta.1"
-   ],
-   [
-      35.6895,
-      139.6917,
-      "54.65.151.96:21493",
-      "JP - Tokyo",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      41.2619,
-      -95.8608,
-      "34.132.110.220:47322",
-      "US - Council Bluffs",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      45.5946,
-      -121.1787,
-      "34.82.2.187:56732",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      52.374,
-      4.8897,
-      "62.133.229.41:55278",
-      "NL - Amsterdam",
-      "Unilogic Networks B.V.",
-      "v1.3.2-stable"
-   ],
-   [
-      49.4542,
-      11.0775,
-      "94.130.108.20:56190",
-      "DE - Nürnberg",
-      "Hetzner Online GmbH",
-      "v1.4.1-stable"
-   ],
-   [
-      50.9333,
-      6.95,
-      "80.158.48.29:45805",
-      "DE - Köln",
-      "T-Systems International GmbH",
-      "v1.3.2-stable"
-   ],
-   [
-      1.2897,
-      103.8501,
-      "13.212.177.134:59026",
-      "SG - Singapore",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      37.3924,
-      -121.9623,
-      "64.227.107.6:41512",
-      "US - Santa Clara",
-      "DigitalOcean, LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      39.0437,
-      -77.4875,
-      "54.175.255.219:61847",
-      "US - Ashburn",
-      "Amazon.com, Inc.",
-      "v1.4.1-stable-0a6286b2"
-   ],
-   [
-      51.6814,
-      -2.3533,
-      "82.163.189.132:59276",
-      "GB - Dursley",
-      "Gigaclear Limited",
-      "v1.3.2-stable"
-   ],
-   [
-      33.749,
-      -84.388,
-      "170.187.153.26:39638",
-      "US - Atlanta",
-      "Linode, LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      45.5946,
-      -121.1787,
-      "35.233.203.189:52196",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      49.4542,
-      11.0775,
-      "164.68.100.191:46730",
-      "DE - Nürnberg",
-      "Contabo GmbH",
-      "v1.3.2-stable"
-   ],
-   [
-      48.5839,
-      7.7455,
-      "147.135.222.29:49034",
-      "FR - Strasbourg",
-      "OVH SAS",
-      "v1.3.2-stable"
-   ],
-   [
-      35.9092,
-      14.4256,
-      "80.64.211.71:34570",
-      "MT - Mosta",
-      "Skoed Limited",
-      "v1.3.2-stable"
-   ],
-   [
-      40.0334,
-      -83.1582,
-      "3.142.200.151:19526",
-      "US - Hilliard",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      52.2284,
-      21.0522,
-      "51.83.220.86:58346",
-      "PL - Warsaw",
-      "OVH SAS",
-      "v1.3.2-stable"
-   ],
-   [
-      45.5088,
-      -73.5878,
-      "144.217.77.55:30303",
-      "CA - Montréal",
-      "OVH SAS",
-      "v1.4.1-stable-0a6286b2"
-   ],
-   [
-      22.2783,
-      114.1747,
-      "47.52.234.156:51330",
-      "HK - Hong Kong",
-      "Alibaba (US) Technology Co., Ltd.",
-      "v1.3.2-stable"
-   ],
-   [
-      45.8399,
-      -119.7006,
-      "54.201.248.181:5551",
-      "US - Boardman",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      45.8399,
-      -119.7006,
-      "54.218.225.154:48866",
-      "US - Boardman",
-      "Amazon.com, Inc.",
-      "v1.4.1-stable"
-   ],
-   [
-      32.8546,
-      -79.9748,
-      "34.75.171.119:46220",
-      "US - North Charleston",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      35.6895,
-      139.6917,
-      "52.197.6.219:42349",
-      "JP - Tokyo",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      45.5946,
-      -121.1787,
-      "34.83.188.61:37108",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      1.2897,
-      103.8501,
-      "54.251.36.145:5178",
-      "SG - Singapore",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      39.0437,
-      -77.4875,
-      "54.175.255.214:11324",
-      "US - Ashburn",
-      "Amazon.com, Inc.",
-      "v1.4.1-stable-0a6286b2"
-   ],
-   [
-      53.3331,
-      -6.2489,
-      "3.248.154.216:59502",
-      "IE - Dublin",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      35.6895,
-      139.6917,
-      "54.199.170.71:57374",
-      "JP - Tokyo",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      36.175,
-      -115.1372,
-      "34.125.147.64:60076",
-      "US - Las Vegas",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      60.354,
-      24.9794,
-      "95.217.18.105:41646",
-      "FI - Tuusula",
-      "Hetzner Online GmbH",
-      "v1.3.2-stable"
-   ],
-   [
-      45.5946,
-      -121.1787,
-      "34.83.204.154:43264",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
+      32.7831,
+      -96.8067,
+      "139.178.82.109:30303",
+      "US - Dallas",
+      "Packet Host, Inc.",
+      "v1.5.1-stable"
    ],
    [
       34.0522,
       -118.2437,
-      "34.94.103.48:49950",
+      "34.94.100.243:30303",
       "US - Los Angeles",
       "Google LLC",
-      "v1.3.2-stable"
+      "v1.5.4-stable"
    ],
    [
-      22.2783,
-      114.1747,
-      "47.242.64.203:39945",
-      "HK - Hong Kong",
-      "Alibaba (US) Technology Co., Ltd.",
-      "v1.3.2-stable"
+      39.0437,
+      -77.4875,
+      "54.175.255.217:27322",
+      "US - Ashburn",
+      "Amazon.com, Inc.",
+      "v1.5.5-stable-573df8e1"
    ],
    [
-      50.9333,
-      6.95,
-      "80.158.48.29:14892",
-      "DE - Köln",
-      "T-Systems International GmbH",
-      "v1.3.2-stable"
-   ],
-   [
-      22.2783,
-      114.1747,
-      "47.242.188.97:41412",
-      "HK - Hong Kong",
-      "Alibaba (US) Technology Co., Ltd.",
-      "v1.3.2-stable"
-   ],
-   [
-      52.374,
-      4.8897,
-      "46.166.143.80:30303",
-      "NL - Amsterdam",
-      "NForce Entertainment B.V.",
-      "v1.3.2-stable"
+      49.4542,
+      11.0775,
+      "49.12.165.122:57280",
+      "DE - Nürnberg",
+      "Hetzner Online GmbH",
+      "v1.5.4-stable"
    ],
    [
       43.7001,
       -79.4163,
-      "143.198.46.146:33198",
+      "178.128.228.96:30303",
       "CA - Toronto",
       "DigitalOcean, LLC",
-      "v1.4.1-stable-0a6286b2"
+      "v1.5.4-stable"
+   ],
+   [
+      39.0437,
+      -77.4875,
+      "34.236.52.203:46056",
+      "US - Ashburn",
+      "Amazon.com, Inc.",
+      "v1.5.5-stable"
+   ],
+   [
+      50.1025,
+      8.6299,
+      "34.159.28.21:29888",
+      "DE - Frankfurt am Main",
+      "Google LLC",
+      "v1.5.3-stable"
+   ],
+   [
+      36.175,
+      -115.1372,
+      "34.125.22.203:34066",
+      "US - Las Vegas",
+      "Google LLC",
+      "v1.5.4-stable"
+   ],
+   [
+      39.0437,
+      -77.4875,
+      "54.175.255.214:39246",
+      "US - Ashburn",
+      "Amazon.com, Inc.",
+      "v1.5.5-stable-573df8e1"
+   ],
+   [
+      32.8546,
+      -79.9748,
+      "35.231.227.29:45978",
+      "US - North Charleston",
+      "Google LLC",
+      "v1.5.3-stable"
+   ],
+   [
+      22.3302,
+      114.1595,
+      "150.109.148.233:30303",
+      "HK - Sham Shui Po",
+      "Tencent Building, Kejizhongyi Avenue",
+      "v1.5.2-stable"
+   ],
+   [
+      60.1695,
+      24.9354,
+      "65.108.122.117:30314",
+      "FI - Helsinki",
+      "Hetzner Online GmbH",
+      "v1.6.0-unstable"
+   ],
+   [
+      41.5878,
+      -93.6274,
+      "13.86.126.217:45681",
+      "US - Des Moines",
+      "Microsoft Corporation",
+      "v1.5.4-stable"
+   ],
+   [
+      43.7001,
+      -79.4163,
+      "134.122.38.223:57912",
+      "CA - Toronto",
+      "DigitalOcean, LLC",
+      "v1.5.5-stable-573df8e1"
    ],
    [
       41.2619,
       -95.8608,
-      "34.67.18.11:54980",
+      "34.132.110.220:34942",
       "US - Council Bluffs",
       "Google LLC",
-      "v1.3.0-stable-6da2906e"
-   ],
-   [
-      50.9333,
-      6.95,
-      "80.158.48.30:60683",
-      "DE - Köln",
-      "T-Systems International GmbH",
       "v1.3.2-stable"
    ],
    [
       45.5946,
       -121.1787,
-      "34.82.13.74:43996",
+      "34.127.16.93:37790",
       "US - The Dalles",
       "Google LLC",
-      "v1.3.2-stable"
+      "v1.5.4-stable"
+   ],
+   [
+      39.0437,
+      -77.4875,
+      "54.175.255.216:30854",
+      "US - Ashburn",
+      "Amazon.com, Inc.",
+      "v1.5.5-stable-573df8e1"
+   ],
+   [
+      45.5946,
+      -121.1787,
+      "34.105.94.71:30303",
+      "US - The Dalles",
+      "Google LLC",
+      "v1.5.5-stable"
+   ],
+   [
+      39.0437,
+      -77.4875,
+      "34.227.169.136:35244",
+      "US - Ashburn",
+      "Amazon.com, Inc.",
+      "v1.5.3-stable"
+   ],
+   [
+      32.8546,
+      -79.9748,
+      "35.227.98.186:44888",
+      "US - North Charleston",
+      "Google LLC",
+      "v1.5.3-stable"
    ],
    [
       50.1025,
       8.6299,
-      "167.172.178.70:59126",
+      "34.89.176.47:35436",
       "DE - Frankfurt am Main",
-      "DigitalOcean, LLC",
-      "v1.3.2-stable"
+      "Google LLC",
+      "v1.5.4-stable"
    ],
    [
-      45.504,
-      -73.5747,
-      "54.39.48.218:49072",
-      "CA - Montréal",
-      "OVH SAS",
-      "v1.4.1-stable-0a6286b2"
+      32.8546,
+      -79.9748,
+      "34.75.46.28:38402",
+      "US - North Charleston",
+      "Google LLC",
+      "v1.5.3-stable"
+   ],
+   [
+      37.3924,
+      -121.9623,
+      "143.244.183.7:45398",
+      "US - Santa Clara",
+      "DigitalOcean, LLC",
+      "v1.5.5-stable"
+   ],
+   [
+      51.3396,
+      12.3713,
+      "80.158.48.29:24254",
+      "DE - Leipzig",
+      "T-Systems International GmbH",
+      "v1.5.3-stable"
+   ],
+   [
+      32.8546,
+      -79.9748,
+      "35.227.48.93:41386",
+      "US - North Charleston",
+      "Google LLC",
+      "v1.5.4-stable"
+   ],
+   [
+      45.5946,
+      -121.1787,
+      "34.83.14.207:30303",
+      "US - The Dalles",
+      "Google LLC",
+      "v1.5.5-stable"
+   ],
+   [
+      32.8546,
+      -79.9748,
+      "35.196.237.180:37780",
+      "US - North Charleston",
+      "Google LLC",
+      "v1.5.5-stable"
+   ],
+   [
+      48.8534,
+      2.3488,
+      "82.66.54.143:34244",
+      "FR - Paris",
+      "Free SAS",
+      "v1.5.3-stable"
    ],
    [
       52.374,
       4.8897,
-      "46.166.138.216:30303",
+      "165.22.195.242:60902",
       "NL - Amsterdam",
-      "NForce Entertainment B.V.",
-      "v1.3.2-stable"
+      "DigitalOcean, LLC",
+      "v1.5.4-stable-cf079449"
+   ],
+   [
+      43.7001,
+      -79.4163,
+      "134.122.46.232:30303",
+      "CA - Toronto",
+      "DigitalOcean, LLC",
+      "v1.5.5-stable-573df8e1"
+   ],
+   [
+      45.504,
+      -73.5747,
+      "51.161.116.197:30303",
+      "CA - Montréal",
+      "OVH SAS",
+      "v1.5.2-stable"
+   ],
+   [
+      45.5946,
+      -121.1787,
+      "34.83.146.129:43761",
+      "US - The Dalles",
+      "Google LLC",
+      "v1.5.5-stable"
+   ],
+   [
+      39.0437,
+      -77.4875,
+      "3.83.232.200:30303",
+      "US - Ashburn",
+      "Amazon.com, Inc.",
+      "v1.5.4-stable"
+   ],
+   [
+      41.2619,
+      -95.8608,
+      "35.188.194.121:59240",
+      "US - Council Bluffs",
+      "Google LLC",
+      "v1.5.3-stable"
+   ],
+   [
+      45.8399,
+      -119.7006,
+      "54.218.225.154:35690",
+      "US - Boardman",
+      "Amazon.com, Inc.",
+      "v1.5.4-stable"
+   ],
+   [
+      45.5946,
+      -121.1787,
+      "35.203.186.107:30303",
+      "US - The Dalles",
+      "Google LLC",
+      "v1.5.2-stable"
+   ],
+   [
+      53.3331,
+      -6.2489,
+      "63.32.69.102:30303",
+      "IE - Dublin",
+      "Amazon.com, Inc.",
+      "v1.5.2-stable"
+   ],
+   [
+      53.3331,
+      -6.2489,
+      "3.248.154.216:40796",
+      "IE - Dublin",
+      "Amazon.com, Inc.",
+      "v1.5.4-stable"
+   ],
+   [
+      40.0334,
+      -83.1582,
+      "3.131.130.187:30303",
+      "US - Hilliard",
+      "Amazon.com, Inc.",
+      "v1.5.3-stable-cd609906"
+   ],
+   [
+      1.2897,
+      103.8501,
+      "13.228.50.148:23309",
+      "SG - Singapore",
+      "Amazon.com, Inc.",
+      "v1.5.5-stable-573df8e1"
+   ],
+   [
+      25.7743,
+      -80.1937,
+      "66.206.6.58:34934",
+      "US - Miami",
+      "HIVELOCITY, Inc.",
+      "v1.5.2-stable"
+   ],
+   [
+      43.7001,
+      -79.4163,
+      "138.197.134.217:30303",
+      "CA - Toronto",
+      "DigitalOcean, LLC",
+      "v1.5.5-stable-573df8e1"
+   ],
+   [
+      45.5946,
+      -121.1787,
+      "34.83.204.154:35698",
+      "US - The Dalles",
+      "Google LLC",
+      "v1.5.2-stable"
+   ],
+   [
+      25.0478,
+      121.5319,
+      "35.234.49.253:30303",
+      "TW - Taipei",
+      "Google LLC",
+      "v1.5.3-stable"
+   ],
+   [
+      47.2343,
+      -119.8525,
+      "52.250.39.148:5120",
+      "US - Quincy",
+      "Microsoft Corporation",
+      "v1.5.4-stable"
+   ],
+   [
+      51.3396,
+      12.3713,
+      "80.158.48.21:19478",
+      "DE - Leipzig",
+      "T-Systems International GmbH",
+      "v1.5.3-stable"
+   ],
+   [
+      60.354,
+      24.9794,
+      "95.217.74.75:30303",
+      "FI - Tuusula",
+      "Hetzner Online GmbH",
+      "v1.5.2-stable"
+   ],
+   [
+      1.3215,
+      103.6957,
+      "128.199.116.107:40522",
+      "SG - Singapore",
+      "DigitalOcean, LLC",
+      "v1.5.5-stable"
+   ],
+   [
+      43.7001,
+      -79.4163,
+      "143.198.46.146:30303",
+      "CA - Toronto",
+      "DigitalOcean, LLC",
+      "v1.5.4-stable-cf079449"
+   ],
+   [
+      52.374,
+      4.8897,
+      "165.22.203.135:49176",
+      "NL - Amsterdam",
+      "DigitalOcean, LLC",
+      "v1.5.4-stable-cf079449"
+   ],
+   [
+      47.2343,
+      -119.8525,
+      "52.250.39.148:1089",
+      "US - Quincy",
+      "Microsoft Corporation",
+      "v1.5.4-stable"
    ],
    [
       43.7001,
@@ -565,151 +477,199 @@
       "138.197.145.243:30303",
       "CA - Toronto",
       "DigitalOcean, LLC",
-      "v1.4.1-stable-0a6286b2"
+      "v1.5.4-stable-cf079449"
    ],
    [
       34.0522,
       -118.2437,
-      "34.94.19.197:54760",
+      "34.94.19.197:54034",
       "US - Los Angeles",
       "Google LLC",
-      "v1.3.2-stable"
+      "v1.5.4-stable"
    ],
    [
-      50.4779,
-      12.3713,
-      "142.132.132.249:48620",
-      "DE - Falkenstein",
-      "Hetzner Online GmbH",
-      "v1.4.1-stable"
+      40.8344,
+      -74.1377,
+      "159.65.46.137:41118",
+      "US - Clifton",
+      "DigitalOcean, LLC",
+      "v1.5.2-stable"
    ],
    [
-      1.2897,
-      103.8501,
-      "13.228.50.148:63244",
-      "SG - Singapore",
-      "Amazon.com, Inc.",
-      "v1.4.1-stable-0a6286b2"
+      51.2217,
+      6.7762,
+      "161.97.131.43:53778",
+      "DE - Düsseldorf",
+      "Contabo GmbH",
+      "v1.5.3-stable"
    ],
    [
-      54.7818,
-      32.0401,
-      "92.241.127.236:39102",
-      "RU - Smolensk",
-      "Smoltelecom Ltd",
-      "v1.3.2-stable"
-   ],
-   [
-      35.6895,
-      139.6917,
-      "54.65.151.96:47110",
-      "JP - Tokyo",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      22.3302,
-      114.1595,
-      "14.192.65.249:38300",
-      "HK - Sham Shui Po",
-      "Vocom International Telecommunications AP Area",
-      "v1.3.2-stable"
-   ],
-   [
-      48.8534,
-      2.3488,
-      "136.244.112.96:30303",
-      "FR - Paris",
-      "The Constant Company, LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      45.5946,
-      -121.1787,
-      "35.199.162.229:12715",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      45.5946,
-      -121.1787,
-      "35.247.67.62:48976",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
+      -26.2023,
+      28.0436,
+      "102.133.230.237:35208",
+      "ZA - Johannesburg",
+      "Microsoft Corporation",
+      "v1.2.2-beta"
    ],
    [
       50.1025,
       8.6299,
-      "46.101.226.19:33676",
+      "157.230.31.189:60390",
       "DE - Frankfurt am Main",
       "DigitalOcean, LLC",
-      "v1.4.1-stable"
+      "v1.5.5-stable"
+   ],
+   [
+      39.6472,
+      -105.0795,
+      "174.16.62.153:59812",
+      "US - Denver",
+      "CenturyLink Communications, LLC",
+      "v1.5.2-stable"
+   ],
+   [
+      49.4542,
+      11.0775,
+      "49.12.47.105:30303",
+      "DE - Nürnberg",
+      "Hetzner Online GmbH",
+      "v1.5.1-stable"
+   ],
+   [
+      47.2343,
+      -119.8525,
+      "52.250.39.148:3136",
+      "US - Quincy",
+      "Microsoft Corporation",
+      "v1.5.4-stable"
+   ],
+   [
+      25.0478,
+      121.5319,
+      "35.234.9.93:56542",
+      "TW - Taipei",
+      "Google LLC",
+      "v1.5.3-stable"
+   ],
+   [
+      41.2619,
+      -95.8608,
+      "34.71.112.9:2417",
+      "US - Council Bluffs",
+      "Google LLC",
+      "v1.5.4-stable"
+   ],
+   [
+      40.8344,
+      -74.1377,
+      "165.227.216.53:50444",
+      "US - Clifton",
+      "DigitalOcean, LLC",
+      "v1.5.5-stable"
+   ],
+   [
+      41.2619,
+      -95.8608,
+      "35.224.62.220:48652",
+      "US - Council Bluffs",
+      "Google LLC",
+      "v1.5.4-stable"
+   ],
+   [
+      45.8399,
+      -119.7006,
+      "54.68.86.112:35760",
+      "US - Boardman",
+      "Amazon.com, Inc.",
+      "v1.5.4-stable"
+   ],
+   [
+      52.374,
+      4.8897,
+      "89.149.218.141:57250",
+      "NL - Amsterdam",
+      "LeaseWeb Netherlands B.V.",
+      "v1.5.2-stable"
    ],
    [
       32.8546,
       -79.9748,
-      "35.211.130.132:47082",
+      "35.211.0.102:57468",
       "US - North Charleston",
       "Google LLC",
-      "v1.3.2-stable"
+      "v1.5.4-stable"
    ],
    [
-      45.5946,
-      -121.1787,
-      "34.82.128.247:36786",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      39.7392,
-      -104.9847,
-      "97.122.207.79:57336",
-      "US - Denver",
-      "CenturyLink Communications, LLC",
-      "v1.4.1-stable"
-   ],
-   [
-      43.7001,
-      -79.4163,
-      "159.203.56.216:36284",
-      "CA - Toronto",
-      "DigitalOcean, LLC",
-      "v1.4.1-stable-0a6286b2"
-   ],
-   [
-      37.3688,
-      -122.0363,
-      "67.169.55.106:61292",
+      37.3764,
+      -122.0238,
+      "24.7.16.70:65033",
       "US - Sunnyvale",
       "Comcast Cable Communications, LLC",
       "v1.0.1-stable"
    ],
    [
-      35.6895,
-      139.6917,
-      "54.248.0.58:38708",
-      "JP - Tokyo",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
+      47.3667,
+      8.55,
+      "34.65.161.164:54628",
+      "CH - Zürich",
+      "Google LLC",
+      "v1.5.4-stable"
+   ],
+   [
+      60.1695,
+      24.9354,
+      "65.108.125.104:42762",
+      "FI - Helsinki",
+      "Hetzner Online GmbH",
+      "v1.6.0-unstable"
+   ],
+   [
+      37.3483,
+      -121.9844,
+      "138.68.22.108:30303",
+      "US - Santa Clara",
+      "DigitalOcean, LLC",
+      "v1.5.4-stable"
    ],
    [
       49.0094,
       8.4044,
-      "37.120.187.56:30303",
+      "37.120.187.56:52082",
       "DE - Karlsruhe",
       "netcup GmbH",
-      "v1.3.2-stable"
+      "v1.5.4-stable"
    ],
    [
-      35.6895,
-      139.6917,
-      "54.150.142.243:7748",
-      "JP - Tokyo",
+      60.354,
+      24.9794,
+      "135.181.96.236:49646",
+      "FI - Tuusula",
+      "Hetzner Online GmbH",
+      "v1.5.2-stable"
+   ],
+   [
+      40.0334,
+      -83.1582,
+      "3.12.127.105:30303",
+      "US - Hilliard",
       "Amazon.com, Inc.",
-      "v1.3.2-stable"
+      "v1.5.2-stable"
+   ],
+   [
+      52.374,
+      4.8897,
+      "165.22.195.253:30303",
+      "NL - Amsterdam",
+      "DigitalOcean, LLC",
+      "v1.5.4-stable-cf079449"
+   ],
+   [
+      45.8399,
+      -119.7006,
+      "44.231.117.117:46868",
+      "US - Boardman",
+      "Amazon.com, Inc.",
+      "v1.5.4-stable"
    ],
    [
       32.8546,
@@ -717,111 +677,135 @@
       "35.237.72.81:30303",
       "US - North Charleston",
       "Google LLC",
-      "v1.3.2-stable"
+      "v1.5.3-stable"
    ],
    [
       34.0522,
       -118.2437,
-      "45.32.94.239:30303",
+      "34.94.124.30:30303",
       "US - Los Angeles",
-      "The Constant Company, LLC",
-      "v1.4.1-stable"
+      "Google LLC",
+      "v1.5.2-stable"
    ],
    [
-      45.8399,
-      -119.7006,
-      "54.185.188.35:53864",
-      "US - Boardman",
+      39.0437,
+      -77.4875,
+      "34.205.29.120:41072",
+      "US - Ashburn",
       "Amazon.com, Inc.",
-      "v1.3.2-stable"
+      "v1.5.4-stable"
    ],
    [
-      40.0334,
-      -83.1582,
-      "18.191.141.191:53372",
-      "US - Hilliard",
-      "Amazon.com, Inc.",
-      "v1.5.0-beta.1"
-   ],
-   [
-      52.374,
-      4.8897,
-      "52.143.5.149:3072",
-      "NL - Amsterdam",
-      "Microsoft Corporation",
-      "v1.3.2-stable"
-   ],
-   [
-      52.374,
-      4.8897,
-      "95.168.165.212:49108",
-      "NL - Amsterdam",
-      "LeaseWeb Netherlands B.V.",
-      "v1.3.2-stable"
-   ],
-   [
-      45.5946,
-      -121.1787,
-      "35.247.58.13:30303",
-      "US - The Dalles",
+      25.0478,
+      121.5319,
+      "35.194.200.224:33104",
+      "TW - Taipei",
       "Google LLC",
-      "v1.3.0-stable"
+      "v1.5.3-stable"
    ],
    [
-      -23.5475,
-      -46.6361,
-      "34.151.221.73:41186",
-      "BR - São Paulo",
-      "Google LLC",
-      "v1.4.0-stable"
-   ],
-   [
-      43.7001,
-      -79.4163,
-      "138.197.133.143:51536",
-      "CA - Toronto",
-      "DigitalOcean, LLC",
-      "v1.4.1-stable-0a6286b2"
-   ],
-   [
-      45.5946,
-      -121.1787,
-      "34.82.248.181:59848",
-      "US - The Dalles",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      53.2192,
-      6.5667,
-      "35.204.20.192:52014",
-      "NL - Groningen",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      35.6895,
-      139.6917,
-      "54.95.48.41:39353",
-      "JP - Tokyo",
-      "Amazon.com, Inc.",
-      "v1.3.2-stable"
-   ],
-   [
-      40.8344,
-      -74.1377,
-      "165.227.220.56:41418",
-      "US - Clifton",
-      "DigitalOcean, LLC",
-      "v1.4.1-stable"
+      37.0587,
+      -95.7133,
+      "209.126.9.140:30303",
+      "US - Dearing",
+      "Contabo Inc.",
+      "v1.2.5-stable"
    ],
    [
       1.2897,
       103.8501,
-      "35.247.156.74:51656",
+      "13.212.68.147:35436",
+      "SG - Singapore",
+      "Amazon.com, Inc.",
+      "v1.5.2-stable"
+   ],
+   [
+      43.7001,
+      -79.4163,
+      "134.122.37.139:30303",
+      "CA - Toronto",
+      "DigitalOcean, LLC",
+      "v1.5.5-stable-573df8e1"
+   ],
+   [
+      39.0437,
+      -77.4875,
+      "54.175.255.219:53610",
+      "US - Ashburn",
+      "Amazon.com, Inc.",
+      "v1.5.5-stable-573df8e1"
+   ],
+   [
+      45.5946,
+      -121.1787,
+      "34.83.172.44:37416",
+      "US - The Dalles",
+      "Google LLC",
+      "v1.5.4-stable"
+   ],
+   [
+      40.4165,
+      -3.7026,
+      "86.127.233.0:54216",
+      "ES - Madrid",
+      "DIGI SPAIN TELECOM S.L.U.",
+      "v1.5.1-stable-c7007a0e"
+   ],
+   [
+      35.6895,
+      139.6917,
+      "52.194.8.37:42865",
+      "JP - Tokyo",
+      "Amazon.com, Inc.",
+      "v1.5.5-stable"
+   ],
+   [
+      41.2619,
+      -95.8608,
+      "35.224.246.194:33592",
+      "US - Council Bluffs",
+      "Google LLC",
+      "v1.5.4-stable"
+   ],
+   [
+      53.2192,
+      6.5667,
+      "35.204.20.192:59170",
+      "NL - Groningen",
+      "Google LLC",
+      "v1.5.4-stable"
+   ],
+   [
+      45.5946,
+      -121.1787,
+      "34.105.80.234:30303",
+      "US - The Dalles",
+      "Google LLC",
+      "v1.2.4-stable"
+   ],
+   [
+      41.85,
+      -87.65,
+      "144.202.60.131:57162",
+      "US - Chicago",
+      "The Constant Company, LLC",
+      "v1.1.0-stable"
+   ],
+   [
+      40.8344,
+      -74.1377,
+      "161.35.131.126:36432",
+      "US - Clifton",
+      "DigitalOcean, LLC",
+      "v1.5.5-stable"
+   ],
+   [
+      1.2897,
+      103.8501,
+      "35.247.156.74:43646",
       "SG - Singapore",
       "Google LLC",
-      "v1.4.1-stable"
+      "v1.5.5-stable"
    ],
    [
       41.2619,
@@ -829,78 +813,126 @@
       "35.222.59.194:30303",
       "US - Council Bluffs",
       "Google LLC",
-      "v1.3.2-stable"
+      "v1.5.3-stable"
    ],
    [
-      41.2619,
-      -95.8608,
-      "35.225.183.134:35052",
-      "US - Council Bluffs",
-      "Google LLC",
-      "v1.3.2-stable"
-   ],
-   [
-      41.2619,
-      -95.8608,
-      "35.184.208.169:1049",
-      "US - Council Bluffs",
-      "Google LLC",
-      "v1.4.1-stable"
-   ],
-   [
-      50.4779,
-      12.3713,
-      "138.201.81.132:40904",
-      "DE - Falkenstein",
+      39.0437,
+      -77.4875,
+      "5.161.56.143:30303",
+      "US - Ashburn",
       "Hetzner Online GmbH",
-      "v1.3.2-stable"
+      "v1.5.5-stable"
+   ],
+   [
+      37.3924,
+      -121.9623,
+      "143.198.97.21:52070",
+      "US - Santa Clara",
+      "DigitalOcean, LLC",
+      "v1.5.5-stable"
+   ],
+   [
+      50.1025,
+      8.6299,
+      "34.107.59.161:52164",
+      "DE - Frankfurt am Main",
+      "Google LLC",
+      "v1.5.3-stable"
+   ],
+   [
+      45.5946,
+      -121.1787,
+      "34.83.223.98:45558",
+      "US - The Dalles",
+      "Google LLC",
+      "v1.5.4-stable"
+   ],
+   [
+      52.374,
+      4.8897,
+      "89.149.218.138:46126",
+      "NL - Amsterdam",
+      "LeaseWeb Netherlands B.V.",
+      "v1.5.2-stable"
+   ],
+   [
+      37.3483,
+      -121.9844,
+      "159.65.107.231:35610",
+      "US - Santa Clara",
+      "DigitalOcean, LLC",
+      "v1.5.4-stable"
+   ],
+   [
+      32.8546,
+      -79.9748,
+      "35.196.31.250:39818",
+      "US - North Charleston",
+      "Google LLC",
+      "v1.5.4-stable"
    ],
    [
       41.2619,
       -95.8608,
-      "34.68.20.122:36328",
+      "104.198.221.85:30303",
       "US - Council Bluffs",
       "Google LLC",
-      "v1.3.2-stable"
+      "v1.2.2-beta"
    ],
    [
-      41.2619,
-      -95.8608,
-      "34.134.7.127:38626",
-      "US - Council Bluffs",
-      "Google LLC",
-      "v1.4.1-stable"
+      49.1166,
+      10.7597,
+      "138.201.81.132:33876",
+      "DE - Gunzenhausen",
+      "Hetzner Online GmbH",
+      "v1.5.2-stable"
+   ],
+   [
+      53.3331,
+      -6.2489,
+      "46.137.133.42:55440",
+      "IE - Dublin",
+      "Amazon.com, Inc.",
+      "v1.5.4-stable"
+   ],
+   [
+      60.354,
+      24.9794,
+      "95.217.134.199:42506",
+      "FI - Tuusula",
+      "Hetzner Online GmbH",
+      "v1.5.2-stable"
    ],
    [
       35.6895,
       139.6917,
-      "52.194.8.37:44402",
+      "52.194.8.37:24756",
       "JP - Tokyo",
       "Amazon.com, Inc.",
-      "v1.4.1-stable-0a6286b2"
+      "v1.5.4-stable"
+   ],
+   [
+      50.1025,
+      8.6299,
+      "157.230.127.56:36444",
+      "DE - Frankfurt am Main",
+      "DigitalOcean, LLC",
+      "v1.5.5-stable"
    ],
    [
       37.3394,
       -121.895,
-      "13.57.22.187:55524",
+      "13.57.22.187:36102",
       "US - San Jose",
       "Amazon.com, Inc.",
-      "v1.3.0-stable"
+      "v1.5.3-stable"
    ],
    [
-      -26.2023,
-      28.0436,
-      "102.37.13.5:40002",
-      "ZA - Johannesburg",
-      "Microsoft Corporation",
-      "v1.3.2-stable"
-   ],
-   [
-      1.2897,
-      103.8501,
-      "194.233.77.222:41332",
-      "SG - Singapore",
-      "Contabo Asia Private Limited",
-      "v1.3.2-stable"
+      60.1695,
+      24.9354,
+      "65.108.154.128:34710",
+      "FI - Helsinki",
+      "Hetzner Online GmbH",
+      "v1.4.1-stable"
    ]
 ]
