@@ -4,8 +4,8 @@ docker rm celo-fullnode
 
 export CELO_IMAGE=cloud.canister.io:5000/diwu1989/celo-geth:latest
 export SYNC_MODE=fast
-export MAX_PEERS=512
-export CACHE=1024
+export MAX_PEERS=256
+export CACHE=512
 export TX_LOOKUP_LIMIT=1000
 export GETH_PORT=30314
 docker run --name celo-fullnode -d \
@@ -17,6 +17,6 @@ docker run --name celo-fullnode -d \
         --syncmode $SYNC_MODE --http --http.addr 0.0.0.0 --maxpeers $MAX_PEERS --txpool.lifetime 60s \
         --rpc.txfeecap 0 --txpool.pricebump 1 \
         --txlookuplimit $TX_LOOKUP_LIMIT --snapshot=true \
-        --datadir /root/.celo --nousb --cache $CACHE \
+        --datadir /root/.celo --cache $CACHE \
         --ws --ws.addr 0.0.0.0 --http.corsdomain '*' --http.vhosts '*' --ws.origins '*' \
         --ws.api eth,net,web3,txpool,debug --http.api eth,net,web3
