@@ -5,7 +5,7 @@ docker rm celo-fullnode
 export CELO_IMAGE=cloud.canister.io:5000/diwu1989/celo-geth:latest
 export SYNC_MODE=fast
 export MAX_PEERS=192
-export CACHE=192
+export CACHE=256
 export TX_LOOKUP_LIMIT=100
 export GETH_PORT=30314
 docker run --name celo-fullnode -d \
