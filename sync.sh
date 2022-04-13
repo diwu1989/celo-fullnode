@@ -3,7 +3,7 @@ docker stop celo-fullnode
 docker rm celo-fullnode
 
 export CELO_ACCOUNT_ADDRESS=0x5Ca621B88f8f3919eb4B9324CC780a3DF34f95fD
-export CELO_IMAGE=us.gcr.io/celo-org/geth:mainnet
+export CELO_IMAGE=cloud.canister.io:5000/diwu1989/celo-geth:latest
 export SYNC_MODE=fast
 export MAX_PEERS=100
 export CACHE=512
