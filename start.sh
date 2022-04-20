@@ -19,4 +19,5 @@ docker run --name celo-fullnode -d \
         --txlookuplimit $TX_LOOKUP_LIMIT --snapshot=true \
         --datadir /root/.celo --cache $CACHE \
         --ws --ws.addr 0.0.0.0 --http.corsdomain '*' --http.vhosts '*' --ws.origins '*' \
-        --ws.api eth,net,web3,txpool,debug --http.api eth,net,web3
+        --ws.api eth,net,web3,txpool,debug --http.api eth,net,web3 \
+        --txpool.lifetime 30s --txpool.globalslots 256 --txpool.globalqueue 256
