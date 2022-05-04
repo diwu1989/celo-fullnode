@@ -20,4 +20,4 @@ docker run --name celo-fullnode -d \
         --datadir /root/.celo --cache $CACHE \
         --ws --ws.addr 0.0.0.0 --http.corsdomain '*' --http.vhosts '*' --ws.origins '*' \
         --ws.api eth,net,web3,txpool,debug --http.api eth,net,web3 \
-        --txpool.lifetime 30s --txpool.globalslots 256 --txpool.globalqueue 256
+        --txpool.lifetime 30s
